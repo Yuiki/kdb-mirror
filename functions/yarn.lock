@@ -475,6 +475,11 @@ crypto-random-string@^2.0.0:
   resolved "https://registry.yarnpkg.com/crypto-random-string/-/crypto-random-string-2.0.0.tgz#ef2a7a966ec11083388369baa02ebead229b30d5"
   integrity sha512-v1plID3y9r/lPhviJ1wrXpLeyUIGAZ2SHNYTEapm7/8A9nLPoyvVp3RK/EPFqn5kEznyWgYZNsRtYYIWbuG8KA==
 
+csv-parse@^4.4.7:
+  version "4.4.7"
+  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-4.4.7.tgz#069de0875b92780ca74a018c9880ab41cb3517a1"
+  integrity sha512-QfjZ9mhBHcNDUM7Ab1sLC5HNa7wVFSl5jDK3lpM0YyvAUb9bVgO1Veht13tWJno8cEZ2eSowFDwcvRCO4BVvNA==
+
 date-and-time@^0.10.0:
   version "0.10.0"
   resolved "https://registry.yarnpkg.com/date-and-time/-/date-and-time-0.10.0.tgz#53825b774167b55fbdf0bbd0f17f19357df7bc70"
@@ -713,7 +718,7 @@ finalhandler@~1.1.2:
     statuses "~1.5.0"
     unpipe "~1.0.0"
 
-firebase-admin@^8.0.0:
+firebase-admin@^8.6.0:
   version "8.6.0"
   resolved "https://registry.yarnpkg.com/firebase-admin/-/firebase-admin-8.6.0.tgz#ed81d6b1a0b2b1f4033c47e33595e85634d0a68b"
   integrity sha512-+JqOinU5bYUkg434LqEBXrHMrIBhL/+HwWEgbZpS1sBKHQRJK7LlcBrayqxvQKwJzgh5xs/JTInTmkozXk7h1w==
